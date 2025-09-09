@@ -1,0 +1,3 @@
+git init . -> cria um repo git tna pasta atual
+it status -> mosta o status do trabalho
+git comit -m "descricao" -> faz coit do que estava para ser commitado

@@ -45,3 +45,4 @@ Um curso para iniciates aprenderem a trabalhar com versionamento de código e re
 ## Participantes
 
 - Cícero Alcântara
+- Numero 2
